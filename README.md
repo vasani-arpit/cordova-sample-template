@@ -1,6 +1,6 @@
 # Push PhoneGap Template [![bitHound Score][bithound-img]][bithound-url]
 
-A PhoneGap Push template
+A Cordova template
 
 ## Usage
 
@@ -8,7 +8,7 @@ A PhoneGap Push template
 
 Create an app using this template specifically:
 
-    phonegap create my-app --template phonegap-template-push
+    cordova create my-app --template https://github.com/vasani-arpit/cordova-sample-template.git
 
 ## [config.xml][config-xml]
 
